@@ -4,4 +4,6 @@ These are my dotfiles for a shell environment setup that's sane and minimal. Fee
 
 The files in here typically go into the $XDG_CONFIG_HOME directory. Typically, that's just ~/.config
 
+**Note:** These files are for personal use. Issues and pull requests won't be entertained.
+
 Cheers!
